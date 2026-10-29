@@ -51,7 +51,7 @@ A sustainability-focused project designed to connect restaurants generating Used
 - 🧑‍💻 Build practical and meaningful software projects
 - 🏆 Participate in hackathons and tech competitions
 - 🌐 Contribute to open-source projects
-- 🚀 Keep learning and growing as a developer
+- 🚀 Keep learning and growing as a developer and a learner
 
 ---
 
